@@ -1,8 +1,9 @@
 #include <iostream>
 #include <string>
 
-int main()
+int main() {
 {
+HEAD
     std::string name;
     std::cout << "What is your name?" << std::endl;
     std::cin >> name;
