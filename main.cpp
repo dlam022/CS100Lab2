@@ -1,6 +1,5 @@
 #include <iostream>
 #include "c-echo.h"
-#include "c-count.h"
 
 
 int main(int argv, char** argc) {
